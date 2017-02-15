@@ -1,0 +1,9 @@
+D:\4KURS\ШІ\laba2(pyatnashki)\laba2(pyatnashki)\bin\Debug\laba2(pyatnashki).exe.config
+D:\4KURS\ШІ\laba2(pyatnashki)\laba2(pyatnashki)\bin\Debug\laba2(pyatnashki).exe
+D:\4KURS\ШІ\laba2(pyatnashki)\laba2(pyatnashki)\bin\Debug\laba2(pyatnashki).pdb
+D:\4KURS\ШІ\laba2(pyatnashki)\laba2(pyatnashki)\obj\Debug\laba2(pyatnashki).csprojResolveAssemblyReference.cache
+D:\4KURS\ШІ\laba2(pyatnashki)\laba2(pyatnashki)\obj\Debug\laba2_pyatnashki_.Form1.resources
+D:\4KURS\ШІ\laba2(pyatnashki)\laba2(pyatnashki)\obj\Debug\laba2_pyatnashki_.Properties.Resources.resources
+D:\4KURS\ШІ\laba2(pyatnashki)\laba2(pyatnashki)\obj\Debug\laba2(pyatnashki).csproj.GenerateResource.Cache
+D:\4KURS\ШІ\laba2(pyatnashki)\laba2(pyatnashki)\obj\Debug\laba2(pyatnashki).exe
+D:\4KURS\ШІ\laba2(pyatnashki)\laba2(pyatnashki)\obj\Debug\laba2(pyatnashki).pdb
